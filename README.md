@@ -1,4 +1,4 @@
-# pong-image
+# pong-2.0
 
 From the blog post https://aimlfun.com/whats-that-pong/
 
